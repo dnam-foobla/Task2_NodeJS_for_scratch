@@ -51,3 +51,11 @@ node index.js
 ### QUESTION 4: Nodemon
 
 Nodemon là package giúp ta không cần restart server mỗi khi thay đổi code. Khi nhận được sự thay đổi code nó sẽ tự động reload lại server cho ta. Có thể tưởng tượng như cơ chế Virtual DOM huyền thoại của React nhưng đây là phía server
+
+
+### Assignments
+
+Chuyển đến thư mục chứa project và chạy 
+```shell
+node index.js
+```
