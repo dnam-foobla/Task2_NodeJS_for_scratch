@@ -1,0 +1,23 @@
+{
+  "name": "task2_nodejs_for_scratch",
+  "version": "1.0.0",
+  "description": "NodeJS KHÔNG phải một ngôn ngữ lập trình. NodeJS là một platform cho ta chạy code Javascript bên backend.Nó được viết và tích hợp bởi core là C++ và Google V8 engine. NodeJs đơn luồng và hướng sự kiện. Việc này sẽ được trình bày tại task 3 một cách rõ ràng.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnam-foobla/Task2_NodeJS_for_scratch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dnam-foobla/Task2_NodeJS_for_scratch/issues"
+  },
+  "homepage": "https://github.com/dnam-foobla/Task2_NodeJS_for_scratch#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
